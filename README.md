@@ -12,5 +12,8 @@ In terms of loading speed the minified version is only around 310~ bytes in size
 ## How can I get it?
 To use vardisplay.js you can simply copy the code from either the minified or non-minified (development) version into a JavaScript file that you then include in your HTML. Additionally you can also include it via CDN with jsdelivr by including `<script src="https://cdn.jsdelivr.net/gh/imeuropa/vardisplay.js@master/vardisplay.min.js" defer></script>` before the closing `</body>` tag of your HTML.
 
+## I want a new feature, how can I get it?
+Since the code is right here on GitHub you can always fork the repository and modify the code for your own purposes or contribute to this project directly. If you can't or don't know how to implement your own features you can open a issue about what you'd like to be added and it can be reviewed.
+
 ## License
 Licensed under the MIT License.
