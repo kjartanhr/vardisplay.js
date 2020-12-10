@@ -8,3 +8,6 @@ Although the code is maintained it is certainly not to be trusted with data ente
 
 ## How can I get it?
 To use vardisplay.js you can simply copy the code from either the minified or non-minified (development) version into a JavaScript file that you then include in your HTML. Additionally you can also include it via CDN with jsdelivr by including `<script src="https://cdn.jsdelivr.net/gh/imeuropa/vardisplay.js@master/vardisplay.min.js" defer></script>` before the closing `</body>` tag of your HTML.
+
+## License
+Licensed under the MIT License.
