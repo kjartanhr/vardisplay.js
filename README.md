@@ -1,5 +1,7 @@
 # vardisplay.js
 
+_**Notice**: this project is currently in development and does not contain all the features intended to be added. Feel free to add your own features, report bugs and suggest new features. That being said if you only need basic functionality it should be fine to use the beta version._
+
 ## What is it
 Display JavaScript variable names in HTML easily by typing `{{variableName}}`. No need for getElementById functions. You can even access objects and arrays with dot notation or bracket notation.
 
