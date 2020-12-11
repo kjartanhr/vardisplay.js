@@ -16,7 +16,7 @@ To use vardisplay.js you can simply copy the code from either the minified or no
 Since the code is right here on GitHub you can always fork the repository and modify the code for your own purposes or contribute to this project directly. If you can't or don't know how to implement your own features you can open a issue about what you'd like to be added and it can be reviewed.
 
 ## I want to do `x`, how?
-If you want to know more about what you can and cannot do or want to learn more about a feature you can read more about it on the [https://github.com/imeuropa/vardisplay.js/wiki](wiki).
+If you want to know more about what you can and cannot do or want to learn more about a feature you can read more about it on the [wiki](https://github.com/imeuropa/vardisplay.js/wiki).
 
 ## License
 Licensed under the MIT License.
