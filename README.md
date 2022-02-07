@@ -1,3 +1,5 @@
+> :warning: **This is a pile of crap**, I wrote this when I did not know about templating -_-
+
 # vardisplay.js
 
 _**Notice**: this project is currently in development and does not contain all the features intended to be added. Feel free to add your own features, report bugs and suggest new features. That being said if you only need basic functionality it should be fine to use the beta version._
