@@ -1,4 +1,4 @@
-> :warning: **This is a pile of crap**, I wrote this when I did not know about templating -_-
+> :warning: **This is a pile of crap**, I wrote this when I did not know about templating -_-. Also it doesn't re-render shit
 
 # vardisplay.js
 
